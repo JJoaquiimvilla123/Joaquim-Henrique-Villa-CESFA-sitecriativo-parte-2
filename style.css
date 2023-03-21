@@ -7,3 +7,11 @@ width:30%;
 width:40%;
 
 }
+
+.conteudo{
+
+display: flex;
+flex-direction: row;
+
+}
+
