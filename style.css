@@ -15,3 +15,12 @@ flex-direction: row;
 
 }
 
+.cabecalho{
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+
